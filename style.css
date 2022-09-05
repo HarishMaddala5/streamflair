@@ -1,0 +1,119 @@
+a{
+    color: white !important;
+}
+a:hover{
+    color: red !important;
+    background: transparent !important;
+}
+.btn{
+    background-color: red !important;
+}
+.span1{
+    color: red;
+}
+.head1{
+    color: white;
+    font-family:papyrus;
+}
+.div1{
+    margin-top: 3%;
+    display: flex;
+}
+.icon{
+    font-size: 30px;
+}
+.head{
+    font-family: Lucida Sans;
+    color: white;
+}
+.head2{
+    font-family: Nirmala UI;
+    color: rgb(161, 158, 158)
+}
+.marg-top{
+    margin-top: 2%;
+}
+.foot{
+    background-color: rgb(27, 25, 25);
+    padding: 3%;
+}
+.para{
+    color: rgb(161, 158, 158);
+}
+.body{
+    background: linear-gradient(to top left,rgb(110, 109, 109) ,rgb(52, 51, 51),rgb(23, 22, 22));
+    padding: 3%;
+}
+.nav1{
+    margin: 0px;
+}
+.para2{
+    color: white;
+    font-family: Gabriola;
+    font-size: 15px;
+}
+.head3{
+    color: white;
+    font-family: Bahnschrift SemiBold;
+}
+.rrr{
+    height: 400px;
+}
+.ott{
+    height: 80px;
+}
+.active{
+    color: red !important;
+}
+.alb{
+    height: 250px;
+}
+.head4{
+    color: RED;
+    font-family: Franklin Gothic Medium;
+}
+.hid{
+    display: none;
+}
+@media screen and (max-width:768px){
+    .blc{
+        display: none;
+    }
+    .hid{
+        display: block;
+    }
+}
+.flx{
+    display: flex;
+}
+.trans{
+    background-color: transparent !important;
+    color: white;
+}
+.trans:hover{
+    color: red !important;
+}
+#up{
+    display: none;
+}
+.cir{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+.disp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35%;
+}
+.red:hover{
+    color: white !important;
+}
+.btn{
+    color: white !important;
+}
